@@ -89,7 +89,7 @@
     }
   },
   "dependencies": {
-    "agenda": "^0.8.0",
+    "agenda": "^2.2.0",
     "magnet-core": "^1.1.0",
     "mz": "^2.4.0",
     "require-all": "^2.0.0"
